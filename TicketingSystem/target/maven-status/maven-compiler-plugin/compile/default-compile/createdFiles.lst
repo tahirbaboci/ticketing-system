@@ -1,0 +1,12 @@
+com\arvato\baboci\dao\impl\BugJDBCTemplate.class
+com\arvato\baboci\controller\BugController.class
+com\arvato\baboci\controller\UserController.class
+com\arvato\baboci\dao\BugDAO.class
+com\arvato\baboci\config\SpringWebAppInitializer.class
+com\arvato\baboci\controller\HelloWorldController.class
+com\arvato\baboci\config\SecSecurityConfig.class
+com\arvato\baboci\Model\Bug.class
+com\arvato\baboci\Model\Employee.class
+com\arvato\baboci\mapper\BugMapper.class
+com\arvato\baboci\config\ApplicationContextConfig.class
+com\arvato\baboci\config\WebMvcConfig.class
