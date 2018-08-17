@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:h="http://java.sun.com/jsf/html"
+    xmlns:f="http://java.sun.com/jsf/core">
+
+<h:head>
+    <title>Home Page</title>
+</h:head>
+<h:body>
+    <h:panelGrid id="panel" columns="2" border="1" cellpadding="10"
+        cellspacing="1">
+        <f:facet name="header">
+            <h:outputText value="Welcome to the Java and J2EE Tutor" />
+        </f:facet>
+        <h:outputLabel value="Already a user" />
+        <h:outputLink value="login.xhtml">Sign In</h:outputLink>
+        <h:outputLabel value="Not a member yet" />
+        <h:outputLink value="register.xhtml">Sign Up</h:outputLink>
+        <f:facet name="footer">
+            <h:panelGroup style="display:block; text-align:center">
+                <h:outputLabel value="Created by Amzi" />
+            </h:panelGroup>
+        </f:facet>
+    </h:panelGrid>
+</h:body>
+</html>

@@ -1,0 +1,9 @@
+com\arvato\baboci\BugSystem\controller\BugController.class
+com\arvato\baboci\BugSystem\repository\EmployeeRepository.class
+com\arvato\baboci\BugSystem\service\Impl\BugServiceImpl.class
+com\arvato\baboci\BugSystem\service\BugService.class
+com\arvato\baboci\BugSystem\db\entity\Employee.class
+com\arvato\baboci\BugSystem\view\BugView.class
+com\arvato\baboci\BugSystem\BugSystemApplication.class
+com\arvato\baboci\BugSystem\db\entity\Bug.class
+com\arvato\baboci\BugSystem\repository\BugRepository.class
